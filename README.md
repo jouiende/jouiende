@@ -23,24 +23,24 @@
 
 🛠️ Languages et outils:
 <div width="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40">
 </div>
