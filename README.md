@@ -1,7 +1,7 @@
 ### Salut 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
 Je suis étudiant en première année de BUT MMI à l'IUT de Troyes 📚 ! Je suis passionné par le développement d'application web ! 💻
