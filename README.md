@@ -44,3 +44,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40">
 </div>
+
+---
+
+Mes stats 🔥
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jouiende&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jouiende&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
