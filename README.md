@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40">
