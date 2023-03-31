@@ -17,6 +17,8 @@
  
  - 💻 Je suis passionné par le développement d'application web
 
+ - 🎹 Je fais de la musique à mes heures perdues
+
 ### Bienvenue sur mon GitHub ! 🤖
 
 ---
