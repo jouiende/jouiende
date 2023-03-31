@@ -22,7 +22,7 @@
 ---
 
 🛠️ Languages et outils:
-<div>
+<div width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
