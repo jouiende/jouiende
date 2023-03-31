@@ -1,4 +1,4 @@
-### Salut, moi c'est Jouiende 👋
+### Salut, moi c'est jouiende 👋
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
