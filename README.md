@@ -21,7 +21,7 @@
 
 ---
 
-🛠️ Languages et outils:
+### 🛠️ Languages et outils 🛠️
 <div width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
@@ -47,7 +47,7 @@
 
 ---
 
-Mes stats 🔥
+### 🔥 Mes stats 🔥
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jouiende&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
