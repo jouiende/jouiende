@@ -13,9 +13,7 @@
   </a>
 </div>
 
- - 📚 Je suis étudiant en première année de BUT MMI à l'IUT de Troyes
- 
- - 💻 Je suis passionné par le développement d'application web
+ - 📚 Je suis étudiant en deuxième année de BUT MMI à l'IUT de Troyes
 
  - 🎹 Je fais de la musique à mes heures perdues
 
